@@ -101,7 +101,7 @@
   },
   "FlashingMethodDescription": {
     "BetaflightPassthroughDescription": "This method allows you to flash your receiver while it is connected to your flight controller by using the passthrough feature of the flight controller.",
-    "PlugInFCToComputer": "Plug in your FC to your computer, but do NOT connect to betaflight configurator.",
+    "PlugInFCToComputer": "Plug in your FC to your computer, but do NOT connect to your configurator software.",
     "SelectDesiredDevice": "Select your desired Device Options and your flight controllers serial device below.",
     "RunBuild&Flash": "Run Build & Flash.",
     "BetaflightPassthroughWiki": "Check our Wiki page for latest definition.",
@@ -149,7 +149,7 @@
     "SwitchToDarkTheme": "Switch to dark theme"
   },
   "FlashingMethod": {
-    "BetaflightPassthrough": "Betaflight Passthrough",
+    "BetaflightPassthrough": "FC Passthrough",
     "DFU": "DFU (Device Firmware Upgrade)",
     "EdgeTxPassthrough": "EdgeTX Passthrough",
     "Passthrough": "Passthrough",
